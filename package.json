@@ -4,11 +4,11 @@
   "homepage": "https://chenxpu.github.io/redux-demo",
   "private": true,
   "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-redux": "^5.0.7",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
     "react-scripts": "1.1.4",
-    "redux": "^4.0.0"
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
