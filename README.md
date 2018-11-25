@@ -6,7 +6,7 @@
 
 ``` bash
 # 克隆项目
-git clone https://github.com/CHENXPU/redux-demo.git
+git clone https://github.com/xinpuchen/redux-demo.git
 
 # 安装依赖
 cd redux-demo
